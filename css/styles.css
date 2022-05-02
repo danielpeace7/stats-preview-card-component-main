@@ -19,7 +19,7 @@ body {
   display: flex;
   flex-direction: column;
   text-align: left;
-  /*width: 220px;*/
+  width: 220px;
 }
 
 h1 {
